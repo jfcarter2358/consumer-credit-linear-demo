@@ -1,5 +1,2 @@
-scikit-learn==0.22
-tensorflow==1.8.0
-shap==0.35
-aequitas==0.42.0
+cartils==0.0.11
 
