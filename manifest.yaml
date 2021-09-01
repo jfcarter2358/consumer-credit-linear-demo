@@ -32,7 +32,7 @@ spec:
         - name: MODELOP_GATEWAY_LOCATION
           value: gateway:8090
         - name: MODELOP_RUNTIME_INITIAL_TAGS
-          value: MYSQL,RHEL8,PY36,ENGINE-JIT
+          value: MYSQL,RHEL8,PY36,ENGINE-JIT,provision
         - name: MODELOP_RUNTIME_GROUP
           value: modelop
         - name: MODELOP_OAUTH_SCOPE
