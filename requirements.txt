@@ -1,2 +1,4 @@
 requests==2.26.0
-
+scikit-learn==0.22
+shap==0.35
+aequitas==0.42.0
